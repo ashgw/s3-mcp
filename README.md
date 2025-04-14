@@ -1,3 +1,8 @@
+# s3-mcp
+
+[![smithery badge](https://smithery.ai/badge/@ashgw/s3-mcp)](https://smithery.ai/server/@ashgw/s3-mcp)
+
+
 ## Overview
 
 This server enables you to:
@@ -11,6 +16,14 @@ This server enables you to:
 ## Installation
 
 There are multiple ways to use this server depending on your setup.
+
+### Installing via Smithery
+
+To install s3-mcp for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@ashgw/s3-mcp):
+
+```bash
+npx -y @smithery/cli install @ashgw/s3-mcp --client claude
+```
 
 ### Cursor (recommended)
 
